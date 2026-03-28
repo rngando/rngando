@@ -16,7 +16,7 @@
 - ☁️ APIs REST e integração com serviços externos
 
 - **Outros:**  
-  Web Scraping (BeautifulSoup), Git, Linux, Firebase, MongoDB
+  Web Scraping (BeautifulSoup), Git, Linux, MongoDB
 
 ---
 
@@ -24,14 +24,11 @@
 
 - Aprimoramento com **Flutter**
 - Criação de **APIs escaláveis com FastAPI e Flask**
-- **Redes e segurança**, com foco em ferramentas tipo VPN customizada
-
----
 
 ---
 
 ## 📌 Alguns projetos:
-- 🎬 **API de Filmes e Séries** – com scraping de sites como ComandoPlay
+- 🎬 **API de Filmes e Séries** – com scraping em sites Público
 - 🎬 **APP para acompanhar filmes e séries** (em desenvolvimento)
 - ⚒️ Ferramentas de automação e análise para terminal em Python
 
@@ -40,16 +37,16 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramirongando&show_icons=true&theme=radical" alt="Ramiro GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rngando&show_icons=true&theme=radical" alt="Ramiro GitHub stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramirongando&layout=compact&theme=radical" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rngando&layout=compact&theme=radical" alt="Top languages" />
 </p>
 
 ---
 
 ## ✉️ Contato e Redes Sociais
 
-- **LinkedIn:** [Ramiro Ngando](https://www.linkedin.com/in/ramiro-ngando-34898b360)
+- **LinkedIn:** [Ramiro Ngando](https://www.linkedin.com/in/ramiro-ngando/)
 - **Instagram:** [@ramirosegunda920](https://www.instagram.com/ramirosegunda920)
 - **X (Twitter):** [@RamiroMend90991](https://x.com/RamiroMend90991)
 - **YouTube:** [@ramiro920](https://youtube.com/@ramiro920)
