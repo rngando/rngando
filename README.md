@@ -45,12 +45,18 @@ Sou desenvolvedor com foco em criação de APIs, automação e aplicações mobi
 
 ---
 
-## 📫 Contato
+## 📫 Contato profissional
 
-- **LinkedIn:** [Ramiro Ngando](https://www.linkedin.com/in/ramiro-ngando/)
-- **Instagram:** [@ramirosegunda920](https://www.instagram.com/ramirosegunda920)
-- **X (Twitter):** [@RamiroMend90991](https://x.com/RamiroMend90991)
-- **YouTube:** [@ramiro920](https://youtube.com/@ramiro920)
+<p align="center">
+  <a href="https://www.linkedin.com/in/ramiro-ngando/">LinkedIn</a> ·
+  <a href="https://github.com/rngando">GitHub</a> ·
+  <a href="https://x.com/RamiroMend90991">X</a> ·
+  <a href="https://youtube.com/@ramiro920">YouTube</a>
+</p>
+
+<p align="center">
+  Estou aberto a oportunidades em desenvolvimento de APIs, mobile e automação. Vamos conversar sobre projetos e colaborações.
+</p>
 
 ---
 
