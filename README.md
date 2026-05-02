@@ -1,15 +1,19 @@
+<div align="center">
 <h1 align="center">👋 Olá, eu sou o Ramiro</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=700&height=60&lines=Desenvolvedor+Full+Stack;Python+%7C+Node.js+%7C+Flutter;Criando+solu%C3%A7%C3%B5es+reais+com+tecnologia" alt="Typing SVG" />
 </p>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rngando-017664236/)
+[![Gmail](https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@email.com)
+
 <p align="center">
   <a href="https://github.com/rngando"><img src="https://img.shields.io/badge/GitHub-rngando-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
   <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow?style=for-the-badge" alt="Status" />
-  <img src="https://img.shields.io/badge/Stack-Python%20%7C%20Node.js%20%7C%20Flutter-blue?style=for-the-badge" alt="Stack" />
-  <img src="https://img.shields.io/badge/Stack-overflow%20%7C%20SQL-lightgrey?style=for-the-badge" alt="Skills" />
 </p>
+</div>
+
 
 ---
 
@@ -21,7 +25,25 @@ Sou desenvolvedor com foco em criação de APIs, automação e aplicações mobi
 - 🌐 Interesse em backend, mobile e integração de sistemas.
 - 🚀 Motivado por projetos práticos e aprendizado contínuo.
 
+---
+
+<div align="center">
+
 ## 🛠️ Tecnologias favoritas
+
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=58A6FF)
+![FastAPI](https://img.shields.io/badge/FastAPI-000?style=for-the-badge&logo=fastapi&logoColor=58A6FF)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=58A6FF)
+![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=58A6FF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=58A6FF)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=58A6FF)
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=58A6FF)
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=58A6FF)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=58A6FF)
+
+</div>
+
+---
 
 - **Python:** Flask, FastAPI, automação, scripts e APIs.
 - **Node.js:** Express, APIs REST, serviços backend.
@@ -35,12 +57,32 @@ Sou desenvolvedor com foco em criação de APIs, automação e aplicações mobi
 - Aplicações mobile responsivas com **Flutter**.
 - Boas práticas de **arquitetura** e **clean code**.
 
+---
+
+<div align="center">
+
 ## 📊 Estatísticas do GitHub
 
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rngando&show_icons=true&theme=radical" alt="GitHub stats" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rngando&layout=compact&theme=radical" alt="Top languages" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=rngando&theme=tokyonight&background=000000&ring=58a6ff&fire=58a6ff&currStreakNum=58a6ff&sideNums=58a6ff"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=rngando&show_icons=true&theme=tokyonight&bg_color=000000&title_color=58a6ff&text_color=58a6ff&icon_color=58a6ff"/>
+
+</div>
+
+<br>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rngando&show_icons=true&theme=radical" alt="GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rngando&layout=compact&theme=radical" alt="Top languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rngando&bg_color=000000&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true"/>
 </p>
 
 ---
