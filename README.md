@@ -67,15 +67,14 @@ Sou desenvolvedor com foco em criação de APIs, automação e aplicações mobi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rngando&show_icons=true&theme=radical" alt="GitHub stats" />
-<br/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rngando&layout=compact&theme=radical" alt="Top languages" />
 
 <br>
 
 <img src="https://streak-stats.demolab.com?user=rngando&theme=tokyonight&background=000000&ring=58a6ff&fire=58a6ff&currStreakNum=58a6ff&sideNums=58a6ff"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=rngando&show_icons=true&theme=tokyonight&bg_color=000000&title_color=58a6ff&text_color=58a6ff&icon_color=58a6ff"/>
+
 
 </div>
 
